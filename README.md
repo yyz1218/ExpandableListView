@@ -1,0 +1,4 @@
+# ExpandableListView
+ExpandableList伸缩,listview一行三列伸缩布局
+
+ExpandableLitView是github上的面的易阁大神写的，但是对于我的需求不适合，所以我在这个里面又加了易阁listView的一行三列的listView伸缩
